@@ -1,0 +1,22 @@
+EQP_ID,UNIT_ID,ERR_CD,ERR_MSG,BARCODE_ID,ERR_START_DTTM,ERR_END_DTTM
+E0STKA51,E0STKA51_M01_OP,1012,"There is sensor detection, and there is no Data",,2024-08-19 16:59:45,2024-08-19 17:04:37
+E0STKA51,E0STKA51_C01,149,Flow Error in designating cells where receiving data is prohibited,,2024-08-19 16:58:54,2024-08-19 17:05:23
+E0STKA51,E0STKA51_C01,135,Lightcutain Error,,2024-08-19 17:05:23,2024-08-19 17:05:32
+E0STKA51,E0STKA51_C01,149,Flow Error in designating cells where receiving data is prohibited,,2024-08-19 17:05:32,2024-08-19 17:05:33
+E0STKA51,E0STKA51_C01,135,Lightcutain Error,,2024-08-19 17:05:33,2024-08-19 17:05:36
+E0STKA51,E0STKA51_C01,149,Flow Error in designating cells where receiving data is prohibited,,2024-08-19 17:05:36,2024-08-19 17:05:37
+E0STKA51,E0STKA51_C01,135,Lightcutain Error,,2024-08-19 17:05:37,2024-08-19 17:05:40
+E0STKA51,E0STKA51_M01_OP,1091,1st Light Curtain detection abnormality,,2024-08-19 17:05:21,2024-08-19 17:06:10
+E0STKA51,E0STKA51_M02_OP,1091,1st Light Curtain detection abnormality,,2024-08-19 17:05:21,2024-08-19 17:06:10
+E0STKA51,E0STKA51_M02,1091,1st Light Curtain detection abnormality,,2024-08-19 17:05:21,2024-08-19 17:06:10
+E0STKA51,E0STKA51_M01,1091,1st Light Curtain detection abnormality,,2024-08-19 17:05:21,2024-08-19 17:06:10
+E0STKA51,E0STKA51_C01,149,Flow Error in designating cells where receiving data is prohibited,,2024-08-19 17:05:40,2024-08-19 17:06:44
+E0STKA51,E0STKA51_C01,58,Empty Shipping fault fork#1,,2024-08-19 17:07:17,2024-08-19 17:07:22
+E0STKA51,E0STKA51_M01_OP,1012,"There is sensor detection, and there is no Data",,2024-08-19 17:07:25,2024-08-19 17:07:51
+E0STKA51,E0STKA51_M01_OP,1012,"There is sensor detection, and there is no Data",,2024-08-19 17:08:51,2024-08-19 17:09:09
+E0STKA51,E0STKA51_C01,209,Mode error on the ground control panel,,2024-08-25 22:42:21,2024-08-25 22:42:22
+E0STKA51,E0STKA51_C01,7,Safety door and safety area error,,2024-08-25 22:42:22,2024-08-25 22:42:23
+E0STKA51,E0STKA51_C01,7,Safety door and safety area error,,2024-08-25 22:42:23,2024-08-25 22:44:51
+E0STKA51,E0STKA51_C01,7,Safety door and safety area error,,2024-08-25 23:33:36,
+E0STKA51,E0STKA51_P02,1004,OP Power Supply Braker OFF,,2024-08-25 23:33:39,
+E0STKA51,E0STKA51_P01,1004,OP Power Supply Braker OFF,,2024-08-25 23:33:39,

@@ -14,7 +14,7 @@ class AgvErrorEntry:
         self.current_job = current_job
         self.current_pos = current_pos
         self.err_code = err_code
-        self.err_level = int(err_level)
+        self.err_level = int(err_level) 
 
 class AgvError:
     def __init__(self):
